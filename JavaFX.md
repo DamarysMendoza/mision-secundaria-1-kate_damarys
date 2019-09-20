@@ -1,6 +1,8 @@
 ﻿# JavaFX
 
 ![enter image description here](http://programaenlinea.net/wp-content/uploads/2015/06/FX.png)
+
+
 **JavaFX** es un conjunto de paquetes de gráficos y medios que permite a los desarrolladores diseñar, crear, probar, depurar e implementar aplicaciones de cliente enriquecido que operan de forma consciente en diversas plataformas.
 
 Con JavaFX, puede crear muchos tipos de aplicaciones. Por lo general, son aplicaciones que cumplen con las redes que se despliegan en múltiples plataformas y muestran información en una interfaz de usuario moderna de alto rendimiento que incluye audio, vídeo, gráficos y animación.
